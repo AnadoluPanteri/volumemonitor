@@ -1,0 +1,9 @@
+
+MeeGo 1.2 Harmattan System-Wide Volume Monitor Example
+======================================================
+
+Monitors changes to the global media volume.
+
+
+2012-10-01 Thomas Perl <m@thp.io>
+
